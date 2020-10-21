@@ -1,2 +1,3 @@
 # EEDI-Assignment
-EEDI Assignment
+Invented in the early 1900s, power converter and inverters are still very relevant in our modern times. In fact, effectively all electronic devices consist of converters in its circuitry. They can be implemented to monitor amplitude modulated signals, provide polarized voltage output for applications such as welding. The converter can be used for DC-DC conversion, the inverter converts the DC signal to an AC signal. The AC signal can be converted back to a DC signal using a rectifier circuit at the output of the inverter.
+Understanding the function and operations of an Inverter, it is to the consensus that an inverter can be implemented into the system to convert DC sources from devices such as batteries, fuel cells and even from solar panels into AC signals. In this assignment we are going to design a Boost Convertor, Inverter and connect it with a PV Array in order to observe various output parameter of our design.
